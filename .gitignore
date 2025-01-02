@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+venv/
+
+# Build directories
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
